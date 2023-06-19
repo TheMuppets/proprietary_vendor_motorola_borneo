@@ -217,3 +217,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libthermalclient
+
+PRODUCT_PACKAGES += \
+    CarrierConfigOverlay
