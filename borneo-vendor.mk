@@ -176,6 +176,7 @@ PRODUCT_PACKAGES += \
     com.qti.feature2.swmf \
     camera.qcom \
     com.qti.chi.override \
+    libaidenoiser \
     libbitmlengine \
     libcamera_nn_stub \
     libcamerapostproc \
